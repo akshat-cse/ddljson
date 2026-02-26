@@ -326,12 +326,24 @@
         ]
     },
     {
-  "title": "Battle of Colachel (1741)",
+  "title": "Battle of Colachel",
   "provisions": [
+    "1741",
     "One of the earliest decisive defeats of a European colonial power by an Indian kingdom.",
     "Fought between the Kingdom of Travancore under Marthanda Varma and the Dutch East India Company.",
     "French support went to Travancore, contradicting claims of French backing the Dutch.",
     "Led to the Treaty of Mavelikkara (1753), limiting Dutch influence."
+  ]
+},
+    {
+  "title": "Battle of Swally",
+  "provisions": [
+    "1611",
+    "Marked the beginning of Portuguese decline in India.",
+    "Fought near Surat between the English East India Company and the Portuguese.",
+    "English East India Company defeated the Portuguese squadron.",
+    "Impressed Mughal Emperor Jahangir.",
+    "Led to permission for an English factory at Surat (1613)."
   ]
 }
 ]
