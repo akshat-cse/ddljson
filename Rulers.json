@@ -92,7 +92,7 @@
   },
   {
     "title": "Saka (Western Kshatrapa)",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from the 1st century BCE to the 4th century CE.",
       "Rudradaman was the most famous ruler of this dynasty.",
       "Rudradaman was a patron of Sanskrit."
@@ -100,14 +100,14 @@
   },
   {
     "title": "Parthians",
-    "provision": [
+    "provisions": [
       "This group was prominent from the 1st century BCE to the 1st century CE.",
       "Gondophernes was the most famous ruler associated with this group."
     ]
   },
   {
     "title": "Kushana Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from the 1st century CE to the 3rd century CE.",
       "Kujula Kadphises and Kadphises I were among the early founders of this dynasty.",
       "Kanishka, known as the Second Ashoka, was one of the most prominent rulers of this dynasty.",
@@ -119,7 +119,7 @@
   },
   {
     "title": "Chera Kingdom (Sangam Period)",
-    "provision": [
+    "provisions": [
       "The capital of this kingdom was Vanchi, also known as Karur.",
       "Udayan Cheral was the earliest known ruler of this kingdom.",
       "Senguttuvan, known as the Red Chera, was the most famous ruler of this kingdom.",
@@ -129,7 +129,7 @@
   },
   {
     "title": "Chola Kingdom (Sangam Period)",
-    "provision": [
+    "provisions": [
       "This kingdom was prominent from the 1st century CE to the 3rd century CE.",
       "The capitals of this kingdom were Uraiyur and Puhar.",
       "Puhar served as an important port of this kingdom.",
@@ -139,7 +139,7 @@
   },
   {
     "title": "Pandya Kingdom (Sangam Period)",
-    "provision": [
+    "provisions": [
       "Mudukudumi was the earliest known ruler of this kingdom.",
       "Nedunjeliyan was the greatest ruler of this kingdom.",
       "The capital of this kingdom was Madurai."
@@ -147,7 +147,7 @@
   },
   {
     "title": "Kadamba Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from approximately 345 CE to 540 CE.",
       "Mayurasharma was the founder of this dynasty.",
       "The capital of this dynasty was Banavasi, located in Karnataka.",
@@ -156,7 +156,7 @@
   },
   {
     "title": "Gupta Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 319 AD to 540 AD.",
       "Sri Gupta was the original founder of this dynasty.",
       "Chandragupta I was the first independent founder and held the title Maharaja Dhiraja.",
@@ -170,7 +170,7 @@
   },
   {
     "title": "Vakataka Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from the 3rd century AD to the 5th century AD.",
       "Vindhyashakti was the founder of this dynasty.",
       "Pravara Sena I is considered the real founder who consolidated the dynasty.",
@@ -181,7 +181,7 @@
   },
   {
     "title": "Pushyabhuti / Vardhana Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 550 to 650 AD.",
       "Pushyabhuti was the founder of this dynasty.",
       "The capital of this dynasty was Thaneswar.",
@@ -198,7 +198,7 @@
   },
   {
     "title": "Chalukya Dynasty (Vatapi / Badami)",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 540 to 750 AD.",
       "Pulakesin I was the founder of this dynasty.",
       "The capital of this dynasty was Vatapi, also known as Badami.",
@@ -209,7 +209,7 @@
   },
   {
     "title": "Sasanka (Gauda) Kingdom",
-    "provision": [
+    "provisions": [
       "This kingdom existed from approximately 590 CE to 625 CE.",
       "Sasanka was the founder of this kingdom.",
       "The capital of this kingdom was Karnasuvarna, located in Murshidabad, West Bengal.",
@@ -219,7 +219,7 @@
   },
   {
     "title": "Karakota Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from approximately 625 CE to 855 CE.",
       "Durlabhavardhana was the founder of this dynasty.",
       "The capital of this dynasty was Parihasapura, later Srinagar, in Kashmir.",
@@ -228,7 +228,7 @@
   },
   {
     "title": "Maukhari Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty was prominent in the 6th century CE to the early 7th century CE.",
       "Harivarman was the founder of this dynasty.",
       "The capital of this dynasty was Kannauj, in Uttar Pradesh.",
@@ -237,7 +237,7 @@
   },
   {
     "title": "Pallava Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 600 to 900 CE, with earlier lines dating back to 250 CE.",
       "Vishnugopa was a king of the second line who was defeated by Samudragupta.",
       "The capital of this dynasty was Kanchipuram.",
@@ -254,7 +254,7 @@
   },
   {
     "title": "Chahamana / Chauhan Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty was prominent from the 7th century to the 11th century.",
       "Simharaja and Vasudeva were among the early founders of this dynasty.",
       "The rulers of this dynasty held the title Maharajadhiraja.",
@@ -266,7 +266,7 @@
   },
   {
     "title": "Chandella Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty was prominent from the 8th century to the 12th century.",
       "Nanuka was the founder of this dynasty.",
       "The capitals of this dynasty included Khajuraho, Mahoba, and Kalinjar."
@@ -274,7 +274,7 @@
   },
   {
     "title": "Kalachuri Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty was prominent from the 8th century to the 12th century.",
       "Kokalla I was the founder of this dynasty.",
       "The capital of this dynasty was Chedi, also known as Tripuri.",
@@ -283,7 +283,7 @@
   },
   {
     "title": "Paramara Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty was prominent from the 7th century to the 11th century.",
       "Siyaka II and Sri Harsha were among the early founders of this dynasty.",
       "The capitals of this dynasty were Ujjain and Dhar.",
@@ -293,7 +293,7 @@
   },
   {
     "title": "Guhilota / Sisodia Dynasty of Mewar",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from the 8th century to 1930 CE.",
       "Bappa Rawal and Hamir I were among the founders of this dynasty.",
       "The capital of this dynasty was Chittorgarh."
@@ -301,7 +301,7 @@
   },
   {
     "title": "Somavamshi Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from the 9th century CE to the 12th century CE.",
       "Mahasivagupta Janmejaya I was the founder of this dynasty.",
       "The capital of this dynasty was Yayatinagara, present-day Jajpur in Odisha.",
@@ -310,7 +310,7 @@
   },
   {
     "title": "Pala Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 752 to 1150 AD.",
       "Gopala was the founder of this dynasty.",
       "The capital of this dynasty was Muttagiri, present-day Munger in Bihar.",
@@ -323,7 +323,7 @@
   },
   {
     "title": "Pratihara Dynasty (Gurjara-Pratihara)",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 732 to 1030 AD.",
       "Nagabhata I was the founder of this dynasty.",
       "The capitals of this dynasty were Avanti and Kannauj.",
@@ -334,7 +334,7 @@
   },
   {
     "title": "Rashtrakuta Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 750 to 970 AD.",
       "Dantidurga was the founder of this dynasty.",
       "The capital of this dynasty was Manyakheta, also known as Malkhed.",
@@ -344,7 +344,7 @@
   },
   {
     "title": "Chola Empire",
-    "provision": [
+    "provisions": [
       "This empire ruled from 852 to 1270 AD.",
       "Vijayalaya was the founder of this empire.",
       "This dynasty initially served as feudatories of the Pallavas.",
@@ -359,7 +359,7 @@
   },
   {
     "title": "Hoysala Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 1170 to 1340 AD.",
       "Vishnuvardhana was the founder of this dynasty.",
       "The capital of this dynasty was Dwarasamudra."
@@ -367,7 +367,7 @@
   },
   {
     "title": "Kakatiya Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 1110 to 1326 AD.",
       "Prola Raja II was the founder of this dynasty.",
       "The capital of this dynasty was Warangal."
@@ -375,7 +375,7 @@
   },
   {
     "title": "Western Chalukyas of Kalyani",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 1170 to 1200 AD.",
       "Tailapa II was the founder of this dynasty.",
       "The capital of this dynasty was Kalyani."
@@ -383,14 +383,14 @@
   },
   {
     "title": "Delhi Sultanate",
-    "provision": [
+    "provisions": [
       "The Delhi Sultanate ruled from 1206 to 1526 AD.",
       "It comprised five successive dynasties: the Slave Dynasty (1206–1290), the Khilji Dynasty (1290–1320), the Tughlaq Dynasty (1320–1414), the Sayyid Dynasty (1414–1451), and the Lodi Dynasty (1451–1526)."
     ]
   },
   {
     "title": "Slave Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 1206 to 1290 AD.",
       "Qutbuddin Aibak, a slave of Muhammad Ghori, was the founder of this dynasty.",
       "Qutbuddin Aibak held the title Lakh Baksh.",
@@ -400,7 +400,7 @@
   },
   {
     "title": "Khilji Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 1290 to 1320 AD.",
       "Jalaluddin Khilji was the founder of this dynasty.",
       "Khusrau Khan was the last ruler of this dynasty.",
@@ -409,7 +409,7 @@
   },
   {
     "title": "Tughlaq Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 1320 to 1414 AD.",
       "Ghiyasuddin Tughlaq was the founder of this dynasty.",
       "The succession of rulers included Ghiyasuddin Tughlaq, Muhammad bin Tughlaq, and Firuz Shah Tughlaq."
@@ -417,7 +417,7 @@
   },
   {
     "title": "Sayyid Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 1414 to 1451 AD.",
       "Khizr Khan was the founder of this dynasty.",
       "Alam Shah was the last ruler of this dynasty.",
@@ -426,7 +426,7 @@
   },
   {
     "title": "Lodi Dynasty",
-    "provision": [
+    "provisions": [
       "This dynasty ruled from 1451 to 1526 AD.",
       "Bahlol Lodi was the founder of this dynasty.",
       "Ibrahim Lodi was the last ruler of this dynasty.",
@@ -435,7 +435,7 @@
   },
   {
     "title": "Vijayanagara Empire",
-    "provision": [
+    "provisions": [
       "This empire ruled from 1336 to 1565 AD.",
       "Harihara and Bukka were the founders of this empire.",
       "This empire comprised four successive dynasties: Sangama (1336–1485), Saluva (1485–1505), Tuluva (1505–1570), and Aravidu (1570–1650).",
@@ -456,7 +456,7 @@
   },
   {
     "title": "Bahmani Kingdom",
-    "provision": [
+    "provisions": [
       "Alauddin Hasan Bahman Shah was the founder of this kingdom.",
       "The capitals of this kingdom were Gulbarga and later Bidar.",
       "Tajuddin Firoz Shah was the greatest ruler of this kingdom.",
@@ -465,7 +465,7 @@
   },
   {
     "title": "Berar Kingdom",
-    "provision": [
+    "provisions": [
       "This kingdom was founded in 1484 AD.",
       "Fatahullah Imad Shah was the founder of this kingdom, establishing the Imad Shahi dynasty.",
       "This kingdom was annexed by Ahmadnagar in 1574 AD."
@@ -473,7 +473,7 @@
   },
   {
     "title": "Bijapur Kingdom",
-    "provision": [
+    "provisions": [
       "This kingdom was founded in 1489 AD.",
       "Yusuf Adil Shah was the founder of this kingdom, establishing the Adil Shahi dynasty.",
       "This kingdom was annexed by Aurangzeb in 1686 AD."
@@ -481,7 +481,7 @@
   },
   {
     "title": "Ahmednagar Kingdom",
-    "provision": [
+    "provisions": [
       "This kingdom was founded in 1490 AD.",
       "Malik Ahmad was the founder of this kingdom, establishing the Nizam Shahi dynasty.",
       "This kingdom was annexed by Shah Jahan in 1633 AD."
@@ -489,7 +489,7 @@
   },
   {
     "title": "Golconda Kingdom",
-    "provision": [
+    "provisions": [
       "This kingdom was founded in 1518 AD.",
       "Quli Qutb Shah was the founder of this kingdom, establishing the Qutb Shahi dynasty.",
       "This kingdom was annexed by Aurangzeb in 1687 AD."
@@ -497,7 +497,7 @@
   },
   {
     "title": "Bidar Kingdom",
-    "provision": [
+    "provisions": [
       "This kingdom was founded in 1526 AD.",
       "Amir Ali Barid was the founder of this kingdom, establishing the Barid Shahi dynasty.",
       "This kingdom was annexed by Bijapur in 1610 AD."
